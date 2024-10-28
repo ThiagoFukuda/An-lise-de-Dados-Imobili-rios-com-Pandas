@@ -1,7 +1,5 @@
 # Análise de Dados Imobiliários com Pandas
 
-Este repositório contém o projeto final do curso de Análise de Dados da Alura, onde apliquei meus conhecimentos em Python e a biblioteca Pandas para realizar uma análise detalhada de uma base de dados imobiliários.
-
 ## Descrição do Projeto
 
 Neste projeto, trabalhei com um conjunto de dados que contém informações sobre imóveis, incluindo as seguintes colunas:
